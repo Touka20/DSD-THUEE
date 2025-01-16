@@ -1,6 +1,7 @@
 # DSD-THUEE
 labs of Digital System Design course in 23 fall
 清华大学电子系《数字系统设计》实验
+I am working on re-organizing the files of the project. What you see is not complete
 
 ## lab1 CNN量化
 
